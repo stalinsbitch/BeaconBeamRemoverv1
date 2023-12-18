@@ -1,0 +1,7 @@
+name: BeaconBeamRemoverV1
+version: '${project.version}'
+main: beaconbeamremoverv1.codfather
+api-version: 1.20
+authors: [ Codfather ]
+description: Does what it says in the title you fucktard
+website: codfather69420.org
